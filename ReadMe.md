@@ -36,17 +36,21 @@ https://docs.unity3d.com/Manual/Lights.html
 
 ### Bowser
 A game designer sends you an email for a game element with this story: 
-Your character walks down a long hallway into a room. They see shadows on the walls. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
+Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
 
-Special conditions: in the Scene (and therefore the start of the Game), there is no Light Object in the room with the shadows (nor a light object near enough to cast any shadows); how is it your character can see shadows on the walls?
+Assets: use the provided 3D Text models in Assets > Art > 3D Models as your text object(s)
+(NOTE: if you want to make your own 3D text, you'll need to get the program Blender, which is free, and follow the first two steps of this guide: https://www.makeuseof.com/3d-text-in-blender-how-to/ and export the model as an FBX file into your Assets folder via File > Export > FBX in Blender)
 
-Puzzle suggestion: one of the walls is a "false" wall.
+Special conditions for the puzzle: in the Scene (and therefore the start of the Game), there are no lights in the room with the 3D text (nor a light object near enough to cast any shadows); how is it your character (while playing the game) can see shadows on the walls?
+
+HINT: To write on the floor, use a particular kind of GameObject...
 
 ### Hornet
-Make the room above more elaborate. The character needs to move objects around to reveal certain things.
-You will need OnTriggerEnter(), and OnTriggerExit()
+After the player escapes the room, they must jump between a series of swinging platforms. Use Triggers to activate some of the elements in the Scene.
+https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html
+https://docs.unity3d.com/ScriptReference/Collider.OnTriggerExit.html
 
 ### Demon of Hatred
-Do the above challenges, but build it all with the ProBuider package instead of primitives.
+Do the above challenges, but build it all with the ProBuider package instead of primitives. 
 
 Add in a new game element of your choosing.
