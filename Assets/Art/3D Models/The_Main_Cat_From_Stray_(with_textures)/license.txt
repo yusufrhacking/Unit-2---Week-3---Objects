@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Main Cat From Stray (with textures)
+* source:	https://sketchfab.com/3d-models/the-main-cat-from-stray-with-textures-ea15ddad1f4a49c898db533fb4630e37
+* author:	The Neighbourhood Studio (https://sketchfab.com/monostudio.dev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Main Cat From Stray (with textures)" (https://sketchfab.com/3d-models/the-main-cat-from-stray-with-textures-ea15ddad1f4a49c898db533fb4630e37) by The Neighbourhood Studio (https://sketchfab.com/monostudio.dev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -2,21 +2,24 @@
 
 ## Skills
 * GameObject types (refresher)
-* 3D Objects / Meshes
-* The Rectangle Tool
+* The Transform Component
+* Enabling / Disabling GameObjects and Components
+* World vs Local Space
+* 3D Objects / Meshes / Mesh Filter
+* Rendering / Mesh Renderer / Materials
+* Lights
 * Colliders
-* Triggers
 * Rigidbodies
 * Joints
-* Lights
-* Rendering / Materials / Shadows
-* Player Objects
+* The Rectangle Tool
+* Sketchfab
 
 ## Level
-1. Create a hallway with a floor, walls, and a roof
-2. Create a room at the end of the hallway (try to do this *efficiently*)
-3. Make a stack of boxes at the end of the hallway, such that your player has to smash through  them, Kool-Aid Man-style
-4. Make a platform on the far side of the room such that, when the player steps on it, it swings across a chasm and allows them to jump to safety onto a platform on the other side
+1. Open "First Person Scene"
+2. Create a hallway with a floor, walls, and a roof
+3. Create a room at the end of the hallway (try to do this *efficiently*)
+4. Make a stack of boxes at the end of the hallway, such that your player has to smash through  them, Kool-Aid Man-style
+5. Make a platform on the far side of the room such that, when the player steps on it, it swings across a chasm and allows them to jump to safety onto a platform on the other side
 
 ## Bosses
 
