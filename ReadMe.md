@@ -32,6 +32,11 @@ https://docs.unity3d.com/Manual/Lights.html
 4. Make a stack of boxes at the end of the hallway, such that your player has to smash through  them, Kool-Aid Man-style
 5. Build a swinging pendulum that does the same
 
+NOTE: Your player uses standard keyboard FPS controls, which are as follows:
+W,A,S,D keys = forward, left, back, right
+Mouse = rotate view
+Space = Jump
+
 ## Bosses
 
 ### Bowser
