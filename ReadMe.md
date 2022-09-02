@@ -47,8 +47,10 @@ NOTE: Your player uses standard keyboard FPS controls, which are as follows:
 A game designer sends you an email for a game element with this story: 
 Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
 
+
 Assets: use the provided 3D Text models in Assets > Art > 3D Models as your text object(s)
 (NOTE: if you want to make your own 3D text, you'll need to get the program Blender, which is free, and follow the first two steps of this guide: https://www.makeuseof.com/3d-text-in-blender-how-to/ and export the model as an FBX file into your Assets folder via File > Export > FBX in Blender)
+
 
 Special conditions for the puzzle: in the Scene (and therefore the start of the Game), there are no lights in the room with the 3D text (nor a light object near enough to cast any shadows); how is it your character (while playing the game) can see shadows on the walls?
 
