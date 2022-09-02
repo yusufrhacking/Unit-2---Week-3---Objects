@@ -1,5 +1,14 @@
 # Unit 2 - Week 3 - Objects
 
+## Slides
+https://myuva-my.sharepoint.com/:p:/g/personal/jcb2h_virginia_edu/ESjYUJDLpExOqvlfpCVEijYBfPAoCXWpdUT7LpooCv_Xjw?e=ZIzakb
+
+## Relevant Manual Pages
+
+https://docs.unity3d.com/Manual/GameObjects.html
+https://docs.unity3d.com/Manual/PhysicsOverview.html
+https://docs.unity3d.com/Manual/Lights.html
+
 ## Skills
 * GameObject types (refresher)
 * The Transform Component
@@ -19,7 +28,7 @@
 2. Create a hallway with a floor, walls, and a roof
 3. Create a room at the end of the hallway (try to do this *efficiently*)
 4. Make a stack of boxes at the end of the hallway, such that your player has to smash through  them, Kool-Aid Man-style
-5. Make a platform on the far side of the room such that, when the player steps on it, it swings across a chasm and allows them to jump to safety onto a platform on the other side
+5. Build a swinging pendulum that does the same
 
 ## Bosses
 
