@@ -6,7 +6,9 @@ https://myuva-my.sharepoint.com/:p:/g/personal/jcb2h_virginia_edu/ESjYUJDLpExOqv
 ## Relevant Manual Pages
 
 https://docs.unity3d.com/Manual/GameObjects.html
+
 https://docs.unity3d.com/Manual/PhysicsOverview.html
+
 https://docs.unity3d.com/Manual/Lights.html
 
 ## Skills
