@@ -43,6 +43,7 @@ NOTE: Your player uses standard keyboard FPS controls, which are as follows:
 ## Bosses
 
 ### Bowser
+<img src="https://user-images.githubusercontent.com/7291792/187090817-9c0523ad-2e40-4760-8f93-b92516b64b7f.png" width=200/>
 A game designer sends you an email for a game element with this story: 
 Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
 
@@ -54,11 +55,13 @@ Special conditions for the puzzle: in the Scene (and therefore the start of the 
 HINT: To write on the floor, use a particular kind of GameObject...
 
 ### Hornet
+<img src="https://user-images.githubusercontent.com/7291792/187090928-364593f1-da58-46bc-a4a5-e777fd46fdd2.png" width=200/>
 After the player escapes the room, they must jump between a series of swinging platforms. Use Triggers to activate some of the elements in the Scene.
 https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html
 https://docs.unity3d.com/ScriptReference/Collider.OnTriggerExit.html
 
 ### Demon of Hatred
+<img src="https://user-images.githubusercontent.com/7291792/187091229-df150009-ed6c-4d7b-8640-3c79fa270cbd.png" width=200/>
 Do the above challenges, but build it all with the ProBuider package instead of primitives. 
 
 Add in a new game element of your choosing.
