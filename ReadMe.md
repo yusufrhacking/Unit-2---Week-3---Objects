@@ -33,9 +33,12 @@ https://docs.unity3d.com/Manual/Lights.html
 5. Build a swinging pendulum that does the same
 
 NOTE: Your player uses standard keyboard FPS controls, which are as follows:
-W,A,S,D keys = forward, left, back, right
-Mouse = rotate view
-Space = Jump
+
+**W,A,S,D keys** = forward, left, back, right
+
+**Mouse** = rotate view
+
+**Space** = Jump
 
 ## Bosses
 
