@@ -46,7 +46,7 @@ NOTE: Your player uses standard keyboard FPS controls, which are as follows:
 <img src="https://user-images.githubusercontent.com/7291792/187090817-9c0523ad-2e40-4760-8f93-b92516b64b7f.png" width=200/>
 A game designer sends you an email for a game element with this story: 
 Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
-
+<br/><br/>
 
 Assets: use the provided 3D Text models in Assets > Art > 3D Models as your text object(s)
 (NOTE: if you want to make your own 3D text, you'll need to get the program Blender, which is free, and follow the first two steps of this guide: https://www.makeuseof.com/3d-text-in-blender-how-to/ and export the model as an FBX file into your Assets folder via File > Export > FBX in Blender)
